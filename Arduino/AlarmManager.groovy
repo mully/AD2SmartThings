@@ -14,7 +14,7 @@
  *
  */
 definition(
-    name: "AlarmThing Manager",
+    name: "Alarm Manager",
     description: "Connect your alarm with a SmartShield and make SmartThings see each sensor as an individual thing.",
     category: "Safety & Security",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
